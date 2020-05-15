@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mac/CLionProjects/19112001041廖九明/sqlist_c/SqlistApp.c
+../sqlist_h/SqlistDef.h
+/Users/mac/CLionProjects/19112001041廖九明/sqlist_h/SqlistDef.h
+
+/Users/mac/CLionProjects/19112001041廖九明/sqlist_h/CommonDef.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/mac/CLionProjects/19112001041廖九明/sqlist_h/SqlistDef.h
+../sqlist_h/CommonDef.h
+/Users/mac/CLionProjects/19112001041廖九明/sqlist_h/CommonDef.h
+
